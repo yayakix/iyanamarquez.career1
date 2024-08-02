@@ -1,4 +1,4 @@
 To get started, clone this repo and complete the following exercises:
 
-[] make-your-own-internship.md
-[] finalize-portfolio.md
+- [] make-your-own-internship.md  
+- [] finalize-portfolio.md
